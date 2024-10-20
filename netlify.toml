@@ -1,0 +1,4 @@
+redirects]]
+from = "/*"
+to = "/formatura.html"
+status = 200
